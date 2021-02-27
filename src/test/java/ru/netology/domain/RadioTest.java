@@ -1,7 +1,7 @@
 package ru.netology.domain;
 
-import org.junit.Test;
 import org.junit.jupiter.api.Test;
+import ru.netology.domain.domain.Radio;
 
 import static org.junit.jupiter.api.Assertions.*;
 
